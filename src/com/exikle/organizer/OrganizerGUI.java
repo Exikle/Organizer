@@ -1,4 +1,4 @@
-package com.xidstudios.java.utils.organizer;
+package com.exikle.organizer;
 
 import javax.swing.JFrame;
 

@@ -1,4 +1,4 @@
-package OrganizerOriginal;
+package com.exikle.organizer.original;
 import java.awt.BorderLayout;
 import java.awt.event.KeyEvent;
 

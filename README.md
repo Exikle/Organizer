@@ -2,7 +2,7 @@ Organizer
 ======
 The source code for a digital organizer, written in java.
 
-*SUSPENDED*
+*Inactive*
 
 License
 -------
